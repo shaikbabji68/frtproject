@@ -23,10 +23,10 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![screenshort](https://user-images.githubusercontent.com/115787485/207067131-85146da8-9824-450a-a13f-71345246f733.png)
-![Uploading screenshort 2.png…]()
-![Uploading screenshort3.png…]()
 ![Screenshort](https://user-images.githubusercontent.com/115787485/207067878-5891a8d5-e1eb-4574-9ad8-c3a0c0fdb789.png)
+![screenshort (2)](https://user-images.githubusercontent.com/115787485/207070349-92f24387-95e4-4627-a3ea-28400bec77dd.png)
+![screenshort (4)](https://user-images.githubusercontent.com/115787485/207070406-d4741aab-033f-4922-841e-cc0ec7094142.png)
+![screenshort (3)](https://user-images.githubusercontent.com/115787485/207070378-b1a37b5d-754e-4fe2-894f-8d30c235c72a.png)
 ### Services -
 Therapy,Orthopedic,Heart Specialist,Kidney & Liver,Cancer Cell,Psychiatric Cell
 ### Contact us -
