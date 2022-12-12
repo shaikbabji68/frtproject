@@ -23,25 +23,19 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Untitled](https://user-images.githubusercontent.com/115787485/207067131-85146da8-9824-450a-a13f-71345246f733.png)
-![Uploading Untitled 2.png…]()
-
-### About Us -
-Exceptional Service!,
-Soft & Gentle
+![screenshort](https://user-images.githubusercontent.com/115787485/207067131-85146da8-9824-450a-a13f-71345246f733.png)
+![Uploading screenshort 2.png…]()
+![Uploading screenshort3.png…]()
+![Screenshort](https://user-images.githubusercontent.com/115787485/207067878-5891a8d5-e1eb-4574-9ad8-c3a0c0fdb789.png)
 ### Services -
-Fissure Sealants,
-Cosmetic Dentistry,
-Child's Dental Visit,
-Complete Whitening,,
-Sedation Dentistry,
-Air Flow Cleaning,
-Dental Cleaning,
-Aligning the Teeth
+Therapy,Orthopedic,Heart Specialist,Kidney & Liver,Cancer Cell,Psychiatric Cell
 ### Contact us -
-+44 123 984 439
-### dentitionhealthbot
-https://polite-smoke-0248cbb00.2.azurestaticapps.net/dentitionhealthbot.html
+Rome
+Italy
+55, Cannal Street
+ht no, 1/1/295/1
+### Bothealth
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
